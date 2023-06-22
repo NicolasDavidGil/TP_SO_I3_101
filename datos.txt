@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 Nombre: Ariana De Palma
 IP: 10.0.2.15
 Hora: 11:48:55
+=======
+Nombre: Francomagro Lautaro
+IP: 186.158.252.166
+Hora: 17:21:12
+
+Nicolas David Gil
+127.0.1.1
+10:16:55
+>>>>>>> DePalma
