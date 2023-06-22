@@ -1,0 +1,3 @@
+a- El master queda contienen todos de las ramas creadas
+b-Si, beta pudo visualizar todos los cambios
+c- Para realizar el merge se utilizo el comando 'git merge DePalma', posterior se realizo un git add, git commit -m y git push
