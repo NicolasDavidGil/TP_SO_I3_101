@@ -7,7 +7,7 @@ f- Los comandos para poder completar el punto 7 fueron:
 git fetch origin
 git checkout origin/Gil
 git checkout Gil
-echo -e Ariana De Palmann12:03:43
+echo -e “Ariana De Palma\n$(igconfig)\n(date +%H:%M:%S)” >> beta.txt
 git add .
 git commit -m datos gamma
 git push origin main
