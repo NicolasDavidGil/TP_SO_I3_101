@@ -1,3 +1,4 @@
+Nicolas David Gil, Ariana De Palma, Lautaro Francomagro
 a- El master queda contienen todos de las ramas creadas
 b-Si, beta pudo visualizar todos los cambios
 c- Para realizar el merge se utilizo el comando 'git merge DePalma', posterior se realizo un git add, git commit -m y git push
@@ -11,3 +12,11 @@ echo -e “Ariana De Palma\n$(igconfig)\n$(date +%H:%M:%S)” >> beta.txt
 git add .
 git commit -m datos gamma
 git push origin main
+
+g- comandos punto 8: 
+git checkout origin/Gil
+git checkout Gil
+echo -e "Lautaro Francomagro \n $(ifconfig) \n $(date)" >> beta.txt
+git add .
+git commit -m "Datos Alfa"
+git push origin Gil
